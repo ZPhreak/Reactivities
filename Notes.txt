@@ -1,0 +1,5 @@
+cd API
+dotnet run watch
+
+cd client-app 
+npm start
